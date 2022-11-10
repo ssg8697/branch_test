@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 asdadasd
 
 time : 14:04
+=======
+asdadasdasd
+>>>>>>> 001ee5c43c46737c1f21577f4c26ea721938b803
